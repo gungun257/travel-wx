@@ -15,6 +15,7 @@
 <img src="./preview/3.jpg" style="width:49%">
 <img src="./preview/4.jpg" style="width:49%">
 </div>
+<div style="display:flex;">
 <img src="./preview/5.jpg" style="width:32%">
 <img src="./preview/6.jpg" style="width:32%">
 <img src="./preview/7.jpg" style="width:32%">
